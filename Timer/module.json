@@ -1,0 +1,11 @@
+{
+  "id": "{462b8e16-f358-48e7-9ca9-8b7d73d10c86}",
+  "name": "Timer",
+  "type": 3,
+  "vendor": "Tobias Berndes",
+  "aliases": ["Timer"],
+  "parentRequirements": [],
+  "childRequirements": [],
+  "implemented": [],
+  "prefix": "TBTimer"
+}
